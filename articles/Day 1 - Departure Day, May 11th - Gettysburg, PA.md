@@ -6,6 +6,8 @@ share: "true"
 
 I WANT TO ADD A LOCAL WEATHER WIDGET????? Also a local banner image to each page.
 
+Test from warren
+
 > ==*Thousand Trails Camp Site, Gettysburg, Pennsyvannia. 
 > 7 Night> *==
 
