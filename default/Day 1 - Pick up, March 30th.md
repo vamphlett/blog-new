@@ -12,10 +12,6 @@ slug: day1
 # Day 1 - Saturday, March 30th, 2024
 ## ==Camper pick up Day==
 
-**This is Bold**
-~~this is strike through~~
-*this is italic*
-
 ==Hi ALL==
 
 >Having Fun!
