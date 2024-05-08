@@ -3,7 +3,7 @@ share: "true"
 ---
 <!--
 published: 2024-03-30
-header-image: https://library.wamphlett.net/photos/website/2023/albania/three-of-a-kind.jpg?w=1080
+image: https://library.wamphlett.net/photos/website/2023/albania/three-of-a-kind.jpg?w=1080
 title: Pick Up Day - Saturday, March 30th, 2024
 description: Pickup
 slug: March30
