@@ -1,7 +1,7 @@
 # What's next for me!
-Here we go again, another year, another adventure! So, as most people will already know after selling my house in San Antonio in November 2022, I loaded up my car and took an 8 day road trip across to NYC.
+Here we go again, another year, another adventure! So, as most people will already know, after selling my house in San Antonio in November 2022, I loaded up my car and took an 8 day road trip across to NYC. 
 
-The plan was to find a new house with no close neighbours, (obviously), upstate NY or Pennsylvania, but alas that has not happened.
+The plan was to find a new house with no close neighbours, (obviously), upstate NY, or Pennsylvania, but alas that has not happened.
 
 Fast forward 15 mths and I have a new plan!
 
