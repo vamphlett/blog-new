@@ -3,7 +3,7 @@ share: "true"
 ---
 <!--
 published: 2024-05-25
-image: https://library.wamphlett.net/photos/website/2023/albania/three-of-a-kind.jpg?w=1080
+image: https://library.wamphlett.net/photos/vamphlett/blog/header.jpg
 title: Second stop, Williamsburg, VA - Saturday 18th May, 2024
 description: Williamsburg
 slug: May18
