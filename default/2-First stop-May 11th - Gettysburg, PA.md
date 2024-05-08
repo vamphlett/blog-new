@@ -17,14 +17,14 @@ I WANT TO ADD A LOCAL WEATHER WIDGET????? Also a local banner image to each page
 
 Note from Me!
 
-<div class="small">
+<div class="images small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/header.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/header.jpg" />
 </div>
 
 this is something about those photos
 
-<div class="large">
+<div class="images large">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/header.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/header.jpg" />
 </div>
