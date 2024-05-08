@@ -11,7 +11,7 @@ slug: March30
 
 #  Pick Up Day - Saturday, March 30th, 2024
 
-==Hi ALL=
+Hi ALL
 
 > [!NOTE] TODAY
 > How today went!
