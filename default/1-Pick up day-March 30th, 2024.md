@@ -3,10 +3,11 @@ share: "true"
 ---
 <!--
 published: 2024-03-30
-image: https://library.wamphlett.net/photos/vamphlett/blog/header.jpg
+image: https://library.wamphlett.net/photos/vamphlett/blog/1/IMG_4055.jpg
 title: Pick Up Day - Saturday, March 30th, 2024
 description: Pickup
 slug: March30
+next: Gettysburg, PA
 -->
 
 #  Pick Up Day - Saturday, March 30th, 2024
