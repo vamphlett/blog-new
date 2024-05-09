@@ -12,8 +12,9 @@ slug: May25
 
 
 > ==*Sun Outdoors, Myrtle Beach, South Carolina. 
-> 7 Night*==
+> 7 Night*== (https://www.sunoutdoors.com/south-carolina/sun-outdoors-myrtle-beach?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing)
 
+I WANT TO ADD A LOCAL WEATHER WIDGET????? Also a local banner image to each page.
 
 
 
