@@ -11,10 +11,10 @@ slug: May18
 # Second stop, Williamsburg, VA - Saturday 18th May, 2024
 
 > ==*Thousand Trails RV resort, Williamsburg, Virginia. 
-> 7 Night*==
+> 7 Night*== (https://thousandtrails.com/virginia/williamsburg-rv-camping-resort/?utm_source=yext&utm_medium=directory&utm_campaign=Yext%20Directory%20Listing)
 
 
-
+I WANT TO ADD A LOCAL WEATHER WIDGET????? Also a local banner image to each page.
 
 
 
