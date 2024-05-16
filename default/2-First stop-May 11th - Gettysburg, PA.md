@@ -23,7 +23,7 @@ Departure Day!
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4421.jpg" />
 </div>
 
-After a fairly smooth early morning departure to my first campsite in Gettysburg, PA, I was relieved I had a nice sunny morning with no wind, which helped with the nerves. I even managed to stop at a Truck Stop Gas/Petrol station, filled up, and roll onto the Truck Stop weighing scales to check my vehicle limits - with the help of a friendly, not serial killer like, trucker :-) 
+After a fairly smooth early morning departure to my first campsite in Gettysburg, PA, I was relieved I had a nice sunny morning, with no wind, which helped with the nerves. I even managed to stop at a Truck Stop Gas/Petrol station, filled up, and roll onto the Truck Stop weighing scales to check my vehicle limits - with the help of a friendly, not serial killer like, trucker :-) 
 
 Onwards for a slow but steady drive. Lessons learned, if the sat nav says 4 hrs, expect 5 hrs when towing, and hold tight when be trucks come barreling past. Arrived at the site about 2 p.m. Not a fan of the "thanks for coming now find a space that is available" approach, but I am told it's the norm. Lots of seasonal sites here so not all had humans in (always a bonus) but none the less difficult to find a spot. 15 mins in and I find a nice little end spot next to my very friendly neighbours, Judy and Wyatt, or Wayne, or Bruce, or something....
 
@@ -41,7 +41,7 @@ Evening spent doing a crossword, with a cuppa, chocolate, and yet another rain s
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4426.jpg" />
 </div>
 
-With the weather and the total wipeout of Sunday trying to fix the electrics, I finally found a nice local RV electrician to get me up and running, sightseeing was off the cards. Guess  I can read about Gettysburg online. Spent the remainder of the very wet week just running errands, working, and organizing the camper a little better, along with a very nice invite to a BBQ at my nice neighbours next door.
+With the weather and the total wipeout of Sunday trying to fix the electrics, I finally found a nice local RV electrician to get me up and running, sightseeing and goat yoga was off the cards. Guess  I can read about Gettysburg online. Spent the remainder of the very wet week just running errands, working, and organizing the camper a little better, along with a very nice invite to a BBQ at my nice neighbours next door.
 
 <div class="images small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4499.jpg" />
@@ -80,7 +80,7 @@ Getting cozy and set up, plus learning how to cook in a small space :-)
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4475.jpg" />
 </div>
 
-Ready for the 4hr plus drive onwards to Virginia.
+Ready for the 4hr plus drive onwards to Virginia. Oh and his name was actually Walt :-)
 
 
 
