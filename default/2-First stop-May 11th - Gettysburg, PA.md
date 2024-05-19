@@ -3,19 +3,15 @@ share: "true"
 ---
 <!--
 published: 2024-05-18
-image: https://library.wamphlett.net/photos/vamphlett/blog/header.jpg
+image: https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4421.jpg
 title: First stop - Gettysbury, PA - Saturday 11th May, 2024
 slug: May11
 next: Williamsburg, VA
 -->
 # First stop - Gettysbury, PA - Saturday 11th May, 2024
 
-<div class="images small">
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4421.jpg" />
-</div>
+[Thousand Trails Camp Site, Gettysburg, Pennsyvannia.](https://thousandtrails.com/pennsylvania/gettysburg-farm-rv-campground#resort-overview) 
 
-> *Thousand Trails Camp Site, Gettysburg, Pennsyvannia. 
-> 7 Night> *(https://thousandtrails.com/pennsylvania/gettysburg-farm-rv-campground#resort-overview)
 
 Departure Day!
 
@@ -46,6 +42,8 @@ With the weather and the total wipeout of Sunday trying to fix the electrics, I 
 <div class="images small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4499.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4500.jpg" />
+</div>
+<div class="images small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4501.jpg" />
 </div>
 
@@ -56,28 +54,36 @@ All in all it was a comfortable first week to get settled. The campsite was real
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4435.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4443.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4445.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4448.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4451.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4452.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4453.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4454.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4455.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4456.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4457.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4451.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4453.jpg" />
+</div>
+
+<div class="images small">
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4448.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4452.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4454.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4458.jpg" />
 </div>
 
 Getting cozy and set up, plus learning how to cook in a small space :-)
 <div class="images small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4460.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4463.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4464.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4468.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4469.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4502.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4510.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4511.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4475.jpg" />
+</div>
+
+<div class="images small">
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4463.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4468.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4469.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4510.jpg" />
 </div>
 
 Ready for the 4hr plus drive onwards to Virginia. Oh and his name was actually Walt :-)
