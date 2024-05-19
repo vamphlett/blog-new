@@ -49,7 +49,7 @@ With the weather and the total wipeout of Sunday trying to fix the electrics, I 
 
 All in all it was a comfortable first week to get settled. The campsite was really friendly and super helpful, and the cute animals were a bonus. 
 
-<div class="images small">
+<div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4434.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4435.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4443.jpg" />
@@ -63,7 +63,7 @@ All in all it was a comfortable first week to get settled. The campsite was real
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4453.jpg" />
 </div>
 
-<div class="images small">
+<div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4448.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4452.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4454.jpg" />
@@ -71,7 +71,7 @@ All in all it was a comfortable first week to get settled. The campsite was real
 </div>
 
 Getting cozy and set up, plus learning how to cook in a small space :-)
-<div class="images small">
+<div class="images  really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4460.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4464.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4502.jpg" />
@@ -79,7 +79,7 @@ Getting cozy and set up, plus learning how to cook in a small space :-)
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4475.jpg" />
 </div>
 
-<div class="images small">
+<div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4463.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4468.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/2/IMG_4469.jpg" />
