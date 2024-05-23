@@ -30,7 +30,7 @@ My first spillage - oh well! was past caring at that point. Quick hoover and all
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/3/L/IMG_4544.jpg" />
 </div>
 
-After finding a pretty small space in the sky, and setting up the internet, I was ready to fall into bed for the night, eating a family pack of popcorn for dinner. Had read some not so good reviews on this campsite, so I was very happy to find that although the sites were pretty close together everyone was super quiet and my kinda people, PHEW. Also very close to the highway by not too bad.
+After finding a pretty small space in the sky, and setting up the internet, I was ready to fall into bed for the night, eating a family pack of popcorn for dinner. Had read some not so good reviews on this campsite, so I was very happy to find that although the sites were pretty close together everyone was super quiet and my kinda people, PHEW. Also very close to the highway but not too bad.
 
 <div class="images small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/3/P/IMG_4603.jpg" />
