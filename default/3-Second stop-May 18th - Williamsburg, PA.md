@@ -39,6 +39,8 @@ After finding a pretty small space in the sky, and setting up the internet, I wa
 Up for a much calmer day on Sunday. The choice was Roller coasters at Busch Gardens or [Colonial Williamsburg.](https://www.colonialwilliamsburg.org/explore/seasons/Spring/?utm_source=google&utm_medium=cpc&utm_campaign=tickets-brand&utm_content=cwf-tickets-spring-visitation-2024&gad_source=1&gclid=Cj0KCQjw6auyBhDzARIsALIo6v_azdxqkO3WjeB3xYj9UehgtPm94P1q-bvofEw6RlKhjTryn6ADn5MaAqI4EALw_wcB&gclsrc=aw.ds) With enough stress the day before I decided on the Colonial.
 <div class="images small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/3/L/IMG_4545.jpg" />
+</div>
+
 What an awesome place. It was huge, and so well done, and finally I had a nice spring day to enjoy the outdoors for some great historic talks and tours the village offered.  Must have heard how terrible the Brits were at least 10 times LOL. Definitely recommend a visit if anyone is in the area.
 
 <div class="images really small">
