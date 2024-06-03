@@ -2,7 +2,7 @@
 share: "true"
 ---
 <!--
-published: 2024-06-03
+published: 2024-06-04
 image: https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4660.jpg
 title: Third stop, Saturday 25th May, 2024
 slug: May25
@@ -33,7 +33,7 @@ Beautiful, well keep park but the word resort was the key. Unfortunately, not th
 </div>
 
 <div class="images really small">
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/IMG_C3.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/C3.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/IMG_4678.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/IMG_4666.jpg" />
 </div>
@@ -70,8 +70,6 @@ The campsite had thinned out a little after Monday which made for a better week.
 
 <div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4686.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4676.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4675.jpg" />
 </div>
 
 Friday night we headed to a cruise-in car club in a great little town called Conway. Weather was lovely and the cars and music made for a great evening. Driving in a 1958 Buick Century without seatbelts was a fun experience.
@@ -92,16 +90,12 @@ Friday night we headed to a cruise-in car club in a great little town called Con
 
 Definitely ready for a quiet site so Saturday morning was spent leisurely packing up ready to hit the road Sunday morning.
 
-Booked a Dolphin watching sightseeing boat trip for the afternoon, sadly no dolphins but a nice way to spend a few hours on the water. 
+Booked a Dolphin watching sightseeing boat trip for Saturday afternoon, sadly no dolphins but a nice way to spend a few hours on the water. 
 
 <div class="images really small">
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4543.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4544.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4724.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4727.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4729.jpg" />
 </div>
-
-
-
-
-
 
 NEXT STOP: Charleston, SC
