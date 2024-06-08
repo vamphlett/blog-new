@@ -2,7 +2,7 @@
 share: "true"
 ---
 <!--
-published: 2024-06-09
+published: 2024-06-10
 image: https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4660.jpg
 title: Fourth stop, Saturday 2nd June, 2024
 slug: June2
@@ -11,8 +11,7 @@ next: Savannah, GA
 # Fourth stop, Charleston, SC - Sunday 2nd June, 2024
 
 
-> ==*Oak Plantation, Charleston, South Carolina. 
-> 6 Night*== (https://www.oakplantationcampground.com/index.html)
+[Oak Plantation, Charleston, South Carolina 6 Night] (https://www.oakplantationcampground.com/index.html)
 
 
 Nice easy drive for 3 hours south to the historic town of Charleston, SC.
@@ -23,8 +22,7 @@ I was so glad I picked a no frills basic campsite with great reviews that includ
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4646.jpg" />
 </div>
 
-Beautiful, well keep park but the word resort was the key. Unfortunately, not the best location to find yourself on Memorial weekend but not much I could do about it.  Talk about Butlins or Ibiza on steroids. Apparently they have an entertainment schedule in the club house every night but don't worry you don't have to participate coz they pump the base into your camper for free lol Imagine my joy!
-
+Headed straight out for some sightseeing to [Magnolia Plantation and Gardens] (https://www.magnoliaplantation.com/). Totally what I expected from a southern plantation, despite its not so wonderful history it was a beautiful property with stunning gardens in full bloom. Took the lazy route round on the little trolley tour and saw amazing birds, turtles, and a ton of alligators.
 <div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4674.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4675.jpg" />
@@ -37,23 +35,20 @@ Beautiful, well keep park but the word resort was the key. Unfortunately, not th
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/IMG_4666.jpg" />
 </div>
 
-Earplugs purchased! Game changer.
-
-Had a nice evening out with my work friend and a quick trip to the beach to take a look around.
+Monday and Tuesday was bliss sitting out till late, using the nice quiet pool, and just generally enjoying this peaceful campsite.
 
 <div class="images small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4648.jpg" />
 </div>
 
-Easy Monday morning holiday day then headed out to my friends for some sightseeing to the boardwalk and dinner. After arriving at his house and forgetting not to touch the dog I saw the fluffy thing sitting there and decided to pet it. Err nope. The rest of the day was spent in the Urgent Care with the first real dog bite I had got in 53 years. To say it hurt was an understatement but nothing broken.
+Wednesday I headed out to Downton Charleston for a walk round. It did not disappoint, beautiful architectural, clean quiet streets, and huge colonial homes worth a small 5-8 million dollars. After my walk I enjoyed a nice fish and chips with some live music in the pub before heading back to bed.
 
 <div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/IMG_4679.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/IMG_4683.jpg" />
 </div>
 
-The campsite had thinned out a little after Monday which made for a better week. Did get to take a nice walk in a local park, used the pool a little, and cooked outside on the grill.
-
+2:30 a.m. my first nighttime storm. Wow pretty scary listening to the thunder and extreme heavy rain pound the camper.  I was eyeing up my evacuation route to the bathroom block across the field until it finally passed about 5 a.m.  Not fun. 
 <div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/IMG_4655.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/P/IMG_4656.jpg" />
@@ -71,7 +66,7 @@ The campsite had thinned out a little after Monday which made for a better week.
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4686.jpg" />
 </div>
 
-Friday night we headed to a cruise-in car club in a great little town called Conway. Weather was lovely and the cars and music made for a great evening. Driving in a 1958 Buick Century without seatbelts was a fun experience.
+A tired thursday and steak on the grill for dinner ready for a hopefully better nights sleep.
 
 <div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4698.jpg" />
