@@ -8,14 +8,13 @@ title: Fourth stop, Saturday 2nd June, 2024
 slug: June2
 next: Savannah, GA
 -->
-# Fourth stop, Charleston, SC - Sunday 2nd June, 2024
+# Fifth stop, Savannah, GA - Saturday 8th June, 2024
 
 
-[Oak Plantation, Charleston, South Carolina 6 Night] (https://www.oakplantationcampground.com/index.html)
+[Red Gate Farm, Savannah, Georgia 12 Night] (https://www.redgatecampground.com)
 
-
-Nice easy drive for 3 hours south to the historic town of Charleston, SC.
-I was so glad I picked a no frills basic campsite with great reviews that included words like tranquil, peaceful, quiet. Right up my alley.
+Another pretty easy 2:30 hour drive further south to Savannah, GA. No still hate the towing but with not many options out I have to keep going.
+Going to be at this one for a while so was careful again to book a great quiet park with excellent reviews.
 
 <div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/L/IMG_4736.jpg" />
@@ -50,12 +49,12 @@ Headed straight out for some sightseeing to [Magnolia Plantation and Gardens] (h
 Monday and Tuesday was bliss sitting out till late, using the nice quiet pool, and just generally enjoying this peaceful campsite.
 
 <div class="images really small">
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/5/L/IMG_1111.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/L/IMG_4800.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/L/IMG_4787.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/5/L/IMG_4790.jpg" />
 </div>
 <div class="images really small">
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_1111.jpg" />
+<img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4790.jpg" />
 </div>
 
 Wednesday I headed out to Downton Charleston for a walk round. It did not disappoint, beautiful architectural, clean quiet streets, and huge colonial homes worth a small 5-8 million dollars. After my walk I enjoyed a nice fish and chips with some live music in the pub before heading back to bed.
