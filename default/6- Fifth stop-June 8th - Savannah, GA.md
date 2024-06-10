@@ -2,7 +2,7 @@
 share: "true"
 ---
 <!--
-published: 2024-06-10
+published: 2024-06-24
 image: https://library.wamphlett.net/photos/vamphlett/blog/5/L/IMG_4812.jpg
 title: Fourth stop, Saturday 2nd June, 2024
 slug: June2
