@@ -23,7 +23,7 @@ I was so glad I picked a no frills basic campsite with great reviews that includ
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/L/IMG_4784.jpg" />
 </div>
 
-Headed straight out for some sightseeing to [Magnolia Plantation and Gardens](https://www.magnoliaplantation.com/). Totally what I expected from a southern plantation, despite the history it was a beautiful property with stunning gardens in full bloom. Took the lazy route round on the little trolley tour and saw amazing birds, turtles, and a ton of alligators.
+Headed straight out for some sightseeing to [Magnolia Plantation and Gardens](https://www.magnoliaplantation.com). Totally what I expected from a southern plantation, despite the history it was a beautiful property with stunning gardens in full bloom. Took the lazy route round on the little trolley tour and saw amazing birds, turtles, and a ton of alligators.
 <div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4746.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4754.jpg" />
