@@ -13,7 +13,6 @@ next: Savannah, GA
 
 [Oak Plantation, Charleston, South Carolina 6 Night](https://www.oakplantationcampground.com/index.html)
 
-
 Nice easy drive for 3 hours south to the historic town of Charleston, SC.
 I was so glad I picked a no frills basic campsite with great reviews that included words like tranquil, peaceful, quiet. Right up my alley.
 
