@@ -11,7 +11,7 @@ next: Charleston, SC
 # Third stop, Myrtle Beach, SC - Saturday 25th May, 2024
 
 
-[Sun Outdoors, Myrtle Beach, South Carolina 8 Night]https://www.sunoutdoors.com/south-carolina/sun-outdoors-myrtle-beach?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing)
+[Sun Outdoors, Myrtle Beach, South Carolina 8 Night](https://www.sunoutdoors.com/south-carolina/sun-outdoors-myrtle-beach?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing)
 
 
 OK my first hipcamp fail, well kind of. Wasn't raining on Friday night so decided to try and head south a few hours to stop for a quick overnight just to sleep. Booked a private land stop and started out. Of course it started to rain almost immediately so I eventually got to the house about 3 hours or so later. It was starting to get dark and to my horror the house was a shack in the middle of a junk yard out of a scene from Saw the movie. The drunk dirty, old fat guy final remembered I was coming and came to greet me.  After finding the large carving knife I locked up and got into bed. Up and about as early as possible for the remainder of the trip south.
