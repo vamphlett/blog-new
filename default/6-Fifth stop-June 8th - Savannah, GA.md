@@ -11,7 +11,7 @@ next: Savannah, GA
 # Fifth stop, Savannah, GA - Saturday 8th June, 2024
 
 
-[Red Gate Farm, Savannah, Georgia 12 Night] (https://www.redgatecampground.com)
+[Red Gate Farm, Savannah, Georgia 12 Night](https://www.redgatecampground.com)
 
 Another pretty easy 2:30 hour drive further south to Savannah, GA. No still hate the towing but with not many options out I have to keep going.
 Going to be at this one for a while so was careful again to book a great quiet park with excellent reviews.
