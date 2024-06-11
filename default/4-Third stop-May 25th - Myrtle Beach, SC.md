@@ -4,7 +4,7 @@ share: "true"
 <!--
 published: 2024-06-04
 image: https://library.wamphlett.net/photos/vamphlett/blog/4/L/IMG_4660.jpg
-title: Third stop, Saturday 25th May, 2024
+title: Third stop, Myrtle Beach, SC - Saturday 25th May, 2024
 slug: May25
 next: Charleston, SC
 -->
