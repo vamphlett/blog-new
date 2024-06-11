@@ -27,7 +27,6 @@ Headed straight out for some sightseeing to [Magnolia Plantation and Gardens](ht
 <div class="images really small">
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4746.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4754.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4756.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4750.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4753.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4759.jpg" />
@@ -60,7 +59,6 @@ Monday and Tuesday was bliss sitting out till late, using the nice quiet pool, a
 Wednesday I headed out to Downton Charleston for a walk round. It did not disappoint, beautiful architectural, clean quiet streets, and huge colonial homes worth a small 5-8 million dollars. After my walk I enjoyed a nice fish and chips with some live music in the pub before heading back to bed.
 
 <div class="images really small">
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4808.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4810.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4813.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/5/P/IMG_4817.jpg" />
