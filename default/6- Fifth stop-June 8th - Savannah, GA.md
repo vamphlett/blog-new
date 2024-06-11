@@ -5,7 +5,7 @@ share: "true"
 published: 2024-06-24
 image: https://library.wamphlett.net/photos/vamphlett/blog/5/L/IMG_4812.jpg
 title: Fourth stop, Saturday 2nd June, 2024
-slug: June2
+slug: June8
 next: Savannah, GA
 -->
 # Fifth stop, Savannah, GA - Saturday 8th June, 2024
