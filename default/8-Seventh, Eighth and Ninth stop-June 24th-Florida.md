@@ -27,8 +27,6 @@ Long Branch was an awesome stop where horses go on their hollibobs with their ow
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/8/L/IMG_0026.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/8/L/IMG_0032.jpg" />
 <img src="https://library.wamphlett.net/photos/vamphlett/blog/8/L/IMG_0036.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/8/L/IMG_0032.jpg" />
-<img src="https://library.wamphlett.net/photos/vamphlett/blog/8/L/IMG_0036.jpg" />
 </div>
 
 Onwards to what looked like a nice quiet site for the next 2 nights. Can only be described as hell so chucked in the ear plugs, suffered the noise, and found a new place 2 hours further west early the next day.
