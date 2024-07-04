@@ -3,8 +3,8 @@ share: "true"
 ---
 <!--
 published: 2024-07-02
-image: https://library.wamphlett.net/photos/vamphlett/blog/7/L/IMG_5070.jpg
-title: Seventh,Eighth and Ninth stop, Monday 24th June, 2024
+image: https://library.wamphlett.net/photos/vamphlett/blog/8/L/IMG_0036.jpg
+title: Seventh, Eighth and Ninth stop, Monday 24th June, 2024
 slug: June24
 next: New Orleans, LA
 -->
